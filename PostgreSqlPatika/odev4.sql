@@ -1,4 +1,4 @@
-Patika SQL Ödev 3
+Patika SQL Ödev 4
 
 Aşağıdaki sorgu senaryoları dvdrental örnek veri tabanı üzerinden gerçekleştirilmiştir.
 
