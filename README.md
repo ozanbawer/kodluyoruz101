@@ -6,15 +6,19 @@ Bu repoda, [Patika.dev](https://www.patika.dev) platformu üzerinden takip etti�
 
 Aşağıdaki başlıklar, çalıştığım patikaları ve içerikleri temsil eder:
 
-- Başlangıç Seviye Frontend Web Development Patikası (Tamamlandı)
+### * Başlangıç Seviye Frontend Web Development Patikası (Tamamlandı)
+- JavaScript Patikası
+- PostgreSQL Patikası
 
-- Node.js ile Backend Patikası
+### * Orta Seviye Frontend Web Development Patikası
 
-- Orta Seviye Frontend Web Development Patikası
+### * İleri Seviye Frontend Web Development Patikası
 
-- İleri Seviye Frontend Web Development Patikası
+### * React Native ile Mobile App Patikası
 
-- React Native ile Mobile App Patikası
+### * Node.js ile Backend Patikası
+
+
 
 ## Katkıda Bulunmak
 Bu repo kişisel öğrenim sürecimi yansıttığı için katkı açık değildir. Ancak geri bildirimlerinizi her zaman memnuniyetle karşılarım.
