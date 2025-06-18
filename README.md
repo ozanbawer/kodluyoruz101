@@ -21,7 +21,7 @@ Aşağıdaki başlıklar, çalıştığım patikaları ve içerikleri temsil ede
 
 
 ## Katkıda Bulunmak
-Bu repo kişisel öğrenim sürecimi yansıttığı için katkı açık değildir. Ancak geri bildirimlerinizi her zaman memnuniyetle karşılarım.
+Bu repo kişisel öğrenim sürecimi yansıttığı için katkıya açık değildir. Ancak geri bildirimlerinizi her zaman memnuniyetle karşılarım.
 
 Lisans
 Bu proje MIT Lisansı ile lisanslanmıştır.
