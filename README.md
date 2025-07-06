@@ -11,6 +11,7 @@ Aşağıdaki başlıklar, çalıştığım patikaları ve içerikleri temsil ede
 - PostgreSQL Patikası
 
 ### * Orta Seviye Frontend Web Development Patikası
+-   ReactJs Patikası
 
 ### * İleri Seviye Frontend Web Development Patikası
 
